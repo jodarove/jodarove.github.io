@@ -8,7 +8,7 @@
 */
 
 /* Font Google - strong reaload time */
-/* @import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700,900&subset=latin,latin-ext); */
+ import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700,900&subset=latin,latin-ext); 
 
 
 /*
@@ -796,7 +796,7 @@ h1 span{
 }
 
 .contact .content .contact-text{
-  width:355px;
+  width:320px;
   margin: 0 auto;
   overflow:hidden;
   height:auto;
